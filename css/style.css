@@ -42,6 +42,7 @@ h2 {
     font-size: 200%;
     letter-spacing: -2px;
     font-style: italic;
+    margin-bottom: 18px;
 }
 
 h3 {
@@ -49,6 +50,7 @@ h3 {
     letter-spacing: -2px;
     font-style: italic;
     white-space: nowrap;
+    margin-bottom: 18px;
 }
 
 h4 {
@@ -74,6 +76,7 @@ p {
 .foto_paulo {
     width: 20%;
     max-width: 200px;
+    height: auto;
     border-radius: 50%;
     border: 1px solid black;
 }
@@ -99,7 +102,6 @@ p {
 .sub_habilidades {
     display: flex;
     gap: 50px;
-    margin-top: 15px;
 }
 
 .outros_topicos {
