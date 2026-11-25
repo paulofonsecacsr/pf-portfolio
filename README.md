@@ -3,4 +3,4 @@ Página web com informações e links para redes e projetos meus.
 
 ___Preview:___
 
-<img src="previewPortfolio.webp" alt="Print do meu Portfólio" width=50%>
+<img src="./assets/previewPortfolio.webp" alt="Print do meu Portfólio" width=50%>
