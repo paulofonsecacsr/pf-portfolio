@@ -1,5 +1,5 @@
 # Portfólio de Paulo Fonseca
-Página web com informações e links para redes e projetos meus.<br> Acesso em **https://paulofonsecacsr.github.io/pf-portfolio/**
+Página web com informações e links para redes e projetos meus.<br> Acesso em https://paulofonsecacsr.github.io/pf-portfolio/
 
 ## Preview
 
