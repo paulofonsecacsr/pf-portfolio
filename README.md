@@ -7,3 +7,6 @@ Página web com informações e links para redes e projetos meus.
 
 ## Tecnologias Utilizadas
 HTML, CSS e JavaScript
+
+## Acesso
+https://paulofonsecacsr.github.io/pf-portfolio/
